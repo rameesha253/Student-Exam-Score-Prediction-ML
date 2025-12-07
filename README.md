@@ -87,11 +87,6 @@ The dashboard:
 
 ---
 
-Here are the **two updated sections**—*Results Summary* and *How to Run the Gradio Dashboard*—properly formatted and ready to paste into your GitHub README.
-I’ve included your **model comparison results + insights** as requested and updated the Gradio run instructions.
-
----
-
 # ✅ **📊 Results Summary**
 
 After training Simple Regression, Multiple Regression, and Dummy (baseline) models for all three research questions (RQ1, RQ2, RQ3), the following insights were drawn:
